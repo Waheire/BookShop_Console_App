@@ -158,6 +158,7 @@ namespace BookShop_Console_App
         //buy book
         public void BuyBook() 
         {
+            Console.WriteLine("Enter the ID of the book you want to buy");
 
         }
     }
