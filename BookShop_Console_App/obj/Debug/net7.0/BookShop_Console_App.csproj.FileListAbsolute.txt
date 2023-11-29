@@ -1,0 +1,14 @@
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.AssemblyInfoInputs.cache
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.AssemblyInfo.cs
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.csproj.CoreCompileInputs.cache
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\bin\Debug\net7.0\BookShop_Console_App.exe
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\bin\Debug\net7.0\BookShop_Console_App.deps.json
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\bin\Debug\net7.0\BookShop_Console_App.runtimeconfig.json
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\bin\Debug\net7.0\BookShop_Console_App.dll
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\bin\Debug\net7.0\BookShop_Console_App.pdb
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.dll
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\refint\BookShop_Console_App.dll
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.pdb
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.genruntimeconfig.cache
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\ref\BookShop_Console_App.dll
