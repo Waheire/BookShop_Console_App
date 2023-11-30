@@ -1,0 +1,12 @@
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\bin\Debug\net7.0\Models.deps.json
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\bin\Debug\net7.0\Models.dll
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\bin\Debug\net7.0\Models.pdb
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\obj\Debug\net7.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\obj\Debug\net7.0\Models.AssemblyInfoInputs.cache
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\obj\Debug\net7.0\Models.AssemblyInfo.cs
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\obj\Debug\net7.0\Models.csproj.CoreCompileInputs.cache
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\obj\Debug\net7.0\Models.sourcelink.json
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\obj\Debug\net7.0\Models.dll
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\obj\Debug\net7.0\refint\Models.dll
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\obj\Debug\net7.0\Models.pdb
+C:\Projects\Cohort Exercises\BookShop_Console_App\Models\obj\Debug\net7.0\ref\Models.dll

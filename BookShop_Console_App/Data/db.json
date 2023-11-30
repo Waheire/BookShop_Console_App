@@ -1,0 +1,60 @@
+{
+  "Products": [
+    {
+      "Name": "Pencil",
+      "Description": "HB Pencil",
+      "Price": 55,
+      "id": 1
+    },
+    {
+      "Name": "Book",
+      "Description": "NoteBook",
+      "Price": 200,
+      "id": 2
+    },
+    {
+      "Name": "Ruler",
+      "Description": "Haco ruler",
+      "Price": 50,
+      "id": 3
+    },
+    {
+      "Name": "Stapler",
+      "Description": "Haco Steplar",
+      "Price": 300,
+      "id": 4
+    },
+    {
+      "Name": "Laptop",
+      "Description": "Lenovo, Razer",
+      "Price": 20000,
+      "id": 5
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "Username": "admin",
+      "Email": "admin@admin.com",
+      "Password": "12345"
+    },
+    {
+      "Username": "root",
+      "Email": "root@root.com",
+      "Password": "1234",
+      "id": 2
+    }
+  ],
+  "Orders": [
+    {
+      "userId": 2,
+      "productId": 1,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "productId": 4,
+      "id": 2
+    }
+  ]
+}

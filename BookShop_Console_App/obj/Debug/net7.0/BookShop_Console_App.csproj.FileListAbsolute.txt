@@ -12,3 +12,9 @@ C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug
 C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.pdb
 C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.genruntimeconfig.cache
 C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\ref\BookShop_Console_App.dll
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.csproj.AssemblyReference.cache
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.sourcelink.json
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\bin\Debug\net7.0\Models.dll
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\bin\Debug\net7.0\Models.pdb
+C:\Projects\Cohort Exercises\BookShop_Console_App\BookShop_Console_App\obj\Debug\net7.0\BookShop_Console_App.csproj.CopyComplete
